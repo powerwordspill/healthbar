@@ -13,6 +13,7 @@ Circuit Python code for a physical health bar that syncs with D&amp;D Beyond to 
 - Raspberry Pi Pico W running CircuitPython with `wifi`, `ssl`, and `socketpool`. Pico 2W with increased memory would run better.
 - 2 x 8 NeoPixel strips on **`GP0`**.
 - Pimoroni LiPo SHIM for Pico: https://shop.pimoroni.com/products/pico-lipo-shim?variant=32369543086163.
+- 3.7v 2000mAh LiPo Battery
 
 ## Dependencies
 
