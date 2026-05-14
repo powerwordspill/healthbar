@@ -1,0 +1,13 @@
+WIFI_SSID="WIFI_SSID"
+WIFI_PASSWORD="WIFI_PASSWORD"
+
+GAME_ID="XXXXXX"
+USER_ID="100XXXXXX"
+CHARACTER_ID="XXXXXXXXX"
+
+COOKIE_HEADER="YOUR_LONG_COOKIE_FROM_YOUR_BROWSER"
+
+AUTH_URL="https://auth-service.dndbeyond.com/v1/cobalt-token"
+WS_BASE="wss://game-log-api-live.dndbeyond.com/v1"
+CHARACTER_URL="https://character-service.dndbeyond.com/character/v5/character/"
+ORIGIN="https://www.dndbeyond.com"
